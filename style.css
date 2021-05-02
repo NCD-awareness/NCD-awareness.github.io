@@ -1,0 +1,112 @@
+/*page*/
+/*navbar - #NCDawareness*/
+#navbar-brand{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+
+#navbar-rest-shit{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#navbar-search{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #263238;
+}
+
+/*Химический состав питьевой воды и неинфекционные заболевания*/
+h1{
+    font-family: Montserrat; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+    color: #263238
+}
+
+/*НИЗ, связанные с химическим составом питьевой воды & Биогеохимические эндемии*/
+h2{
+   font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    line-height: 48px;
+    color: #263238; 
+}
+
+/*the rest headings*/
+h4{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+    color: #263238;
+}
+
+/*page text*/
+p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #263238;
+}
+
+/*disease cards*/
+/*disease cards headings*/
+h3{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+    color: #263238;
+}
+
+/*disease cards text = page text*/
+
+/*footer*/
+/*footer heading*/
+h5{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+
+/*footer text*/
+#footer-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+#copyright-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 10px;
+    color: #FFFFFF;
+}
+
